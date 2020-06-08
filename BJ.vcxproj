@@ -18,6 +18,9 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="9375.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{B2F6728B-CFF9-494A-A47B-4A18A02C253D}</ProjectGuid>
     <RootNamespace>BJ</RootNamespace>
